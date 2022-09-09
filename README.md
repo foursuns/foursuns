@@ -29,12 +29,13 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?   username=foursuns&show_icons=true&theme=highcontrast&layout=compact&hide_border=true"/> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&include_all_commits=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
 
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
@@ -42,4 +43,5 @@ Here are some ideas to get you started:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green)](https://github.com/foursuns/github-readme-stats)
 
-![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
+-->
+
