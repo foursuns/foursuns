@@ -34,6 +34,12 @@ Here are some ideas to get you started:
 <img src="98-364.png" alt="Microsoft Database Fundamentals" width="150" height="150"/>&nbsp;
 <img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="150" height="150"/>&nbsp;
 </p>
+<p align="left">
+<img src="ms-900.png" alt="Microsoft 365 Fundamentals" width="150" height="150"/>&nbsp;
+<img src="dp-900.png" alt="Microsoft Azure Data Fundamentals" width="150" height="150"/>&nbsp;
+<img src="ai-900.png" alt="Microsoft Azure AI Fundamentals" width="150" height="150"/>&nbsp;
+<img src="ai-102.png" alt="Microsoft Azure AI Engineer" width="150" height="150"/>&nbsp;
+</p>
 
 <br>
 
