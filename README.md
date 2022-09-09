@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felipementel&theme=blue-green)
 
