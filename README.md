@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 <br>
 
 ### Badges🥇
-<br>
-<img src="ms-900.svg" alt="Microsoft 365" width="60" height="60">
+<img src="ms-900.svg" alt="Microsoft 365" width="150" height="150">
 <img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
 <img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
 
