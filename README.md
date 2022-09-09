@@ -14,6 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<h3 align="left">Interests:</h3>
+
+- Data Science 📊
+- Data Structures And Algorithms 💻
+- Database 
+
+<h3 align="left">Languages:</h3>
+
+- English B1
+- Frech   B2
+
+<br>
+
+## **Badges🥇**<br>
+<img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
+<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
+<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
+
+<br>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <p align="left">
