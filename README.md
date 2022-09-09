@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Badges🥇
 <svg height="100%" width="100%">
      <rect x="0" y="0" width="100%" height="100%" fill="#da552f"></rect>
-     <image src="ms-900.svg" alt="Microsoft 365 Fundamentals" width="150" height="150">
+     <img src="ms-900.svg" alt="Microsoft 365 Fundamentals" width="150" height="150">
      <text fill="#ffffff" x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-size="48" font-family="Verdana">Microsoft 365 Fundamentals</text>
 </svg>
 <br>
