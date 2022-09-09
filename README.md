@@ -29,10 +29,12 @@ Here are some ideas to get you started:
 <br>
 
 ### Badges🥇
-<img src="ms-900.svg" alt="Microsoft 365" width="150" height="150">
-<img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
-<img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
-
+<img src="ms-900.svg" alt="Microsoft 365 Fundamentals" width="150" height="150">
+<svg height="100%" width="100%">
+     <rect x="0" y="0" width="100%" height="100%" fill="#da552f"></rect>
+     <image xlink:href="ms-900.svg" transform="translate(-35.5,-31)" x="25%" y="45%" height="50px" width="50px"/>
+     <text fill="#ffffff" x="50%" y="50%" alignment-baseline="middle" text-anchor="middle" font-size="48" font-family="Verdana">Microsoft 365 Fundamentals</text>
+</svg>
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
