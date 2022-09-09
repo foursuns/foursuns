@@ -28,23 +28,22 @@ Here are some ideas to get you started:
 
 <br>
 
-### Badges🥇
+### Badges
 <p align="left">
-<img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="150" height="150"/>&nbsp;
-<img src="98-364.png" alt="Microsoft Database Fundamentals" width="150" height="150"/>&nbsp;
-<img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="150" height="150"/>&nbsp;
+<img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="120" height="120"/>&nbsp;
+<img src="98-364.png" alt="Microsoft Database Fundamentals" width="120" height="120"/>&nbsp;
+<img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="120" height="120"/>&nbsp;
 </p>
 <p align="left">
-<img src="ms-900.png" alt="Microsoft 365 Fundamentals" width="150" height="150"/>&nbsp;
-<img src="dp-900.png" alt="Microsoft Azure Data Fundamentals" width="150" height="150"/>&nbsp;
-<img src="ai-900.png" alt="Microsoft Azure AI Fundamentals" width="150" height="150"/>&nbsp;
-<img src="ai-102.png" alt="Microsoft Azure AI Engineer" width="150" height="150"/>&nbsp;
+<img src="ms-900.png" alt="Microsoft 365 Fundamentals" width="120" height="120"/>&nbsp;
+<img src="dp-900.png" alt="Microsoft Azure Data Fundamentals" width="120" height="120"/>&nbsp;
+<img src="ai-900.png" alt="Microsoft Azure AI Fundamentals" width="120" height="120"/>&nbsp;
+<img src="ai-102.png" alt="Microsoft Azure AI Engineer" width="120" height="120"/>&nbsp;
 </p>
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools
-
+### Languages and Tools
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -64,18 +63,3 @@ Here are some ideas to get you started:
 </p>
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
-
-<!--
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=foursuns&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=blue-green)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green)](https://github.com/foursuns/github-readme-stats)
-
--->
-
