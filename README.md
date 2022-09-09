@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## Stats📈
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=foursuns&show_icons=true&theme=blue-green&title_color=ffffff&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="foursuns" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=blue-green&title_color=ffffff&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="foursuns" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=foursuns&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="foursuns" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&title_color=ffffff&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="foursuns" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true" alt="foursuns" />
 </p>
 
