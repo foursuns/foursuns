@@ -3,6 +3,7 @@
 
 **foursuns/foursuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,20 +14,23 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 ### Interests
 
 - AI
+- Data Engineer
 - Data Science
-- Data Structures And Algorithms
-- Database 
+- Data Structures and Algorithms
+- Database
 
 ### Languages
 
-- English A2
-- French  B1
+- English     A2
+- French      B1
+- Portuguese  C2
 
-### Badges
+### Certifications
 <p align="left">
 <img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="120" height="120"/>&nbsp;
 <img src="98-364.png" alt="Microsoft Database Fundamentals" width="120" height="120"/>&nbsp;
