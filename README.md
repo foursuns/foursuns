@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=felipementel&theme=blue-green)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green)](https://github.com/foursuns/github-readme-stats)
+
+![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
