@@ -34,6 +34,8 @@ Here are some ideas to get you started:
 <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=foursuns&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
+
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
 
 <!--
