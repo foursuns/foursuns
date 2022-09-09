@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 <br>
 
 ### Badges🥇
-<img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="150" height="150">
-<img src="98-364.png" alt="Microsoft Database Fundamentals" width="150" height="150">
-<img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="150" height="150">
+<p align="left">
+<img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="150" height="150"/>&nbsp;
+<img src="98-364.png" alt="Microsoft Database Fundamentals" width="150" height="150"/>&nbsp;
+<img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="150" height="150"/>&nbsp;
+</p>
+
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
