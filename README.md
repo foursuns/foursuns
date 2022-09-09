@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=highcontrast&layout=compact&hide_border=true"/> 
-<img width="36%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
-<img width="36%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
+<img width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=highcontrast&layout=compact&hide_border=true"/> 
+<img width="34%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img width="34%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
