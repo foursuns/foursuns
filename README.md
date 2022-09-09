@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
@@ -26,10 +26,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </p>
 
+</br>
 
 <p align="center">
 <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=highcontrast&hide_border=true"/> 
-<img width="37%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img height="50%" width="37%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
