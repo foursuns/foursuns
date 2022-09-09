@@ -14,27 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<h3 align="left">Interests:</h3>
+### Interests
 
-- Data Science 📊
-- Data Structures And Algorithms 💻
+- AI
+- Data Science
+- Data Structures And Algorithms
 - Database 
 
-<h3 align="left">Languages:</h3>
+### Languages
 
 - English B1
-- Frech   B2
+- French  B2
 
 <br>
 
-## **Badges🥇**<br>
+### Badges🥇
+<br>
 <img src="Badges/Contributors Badge.jpeg" alt="GWOC Badge" width="60" height="60">
 <img src="Badges/SWOC.jpg" alt="SWOC Badge" width="60" height="60">
 <img src="Badges/Hacktoberfest21.png" alt="Hacktoberfest21 Badge" width="60" height="60">
 
 <br>
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -54,11 +56,13 @@ Here are some ideas to get you started:
 <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=foursuns&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
-
 ![Visitas](https://visitor-badge.glitch.me/badge?page_id=foursuns)
 
 <!--
+
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=foursuns&hide_border=true&bg_color=151515&color=fff&line=f28a00&point=f28a00)](https://abhigyantrips.dev)
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
