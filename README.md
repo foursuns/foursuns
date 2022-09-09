@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <br>
 
 ### Badges🥇
-<img src="98-361" alt="Microsoft 365 Fundamentals" width="150" height="150">
-<img src="98-364" alt="Microsoft 365 Fundamentals" width="150" height="150">
-<img src="98-382" alt="Microsoft 365 Fundamentals" width="150" height="150">
+<img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="150" height="150">
+<img src="98-364.png" alt="Microsoft Database Fundamentals" width="150" height="150">
+<img src="98-382.png" alt="Microsoft Programming Using JavaScript" width="150" height="150">
 <br>
 
 ### :hammer_and_wrench: Languages and Tools
