@@ -26,6 +26,16 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 </div>
 
+
+## Stats📈
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=foursuns&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="foursuns" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="foursuns" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true" alt="foursuns" />
+</p>
+
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=foursuns&theme=blue-green&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
