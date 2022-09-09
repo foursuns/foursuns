@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img width="24%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foursuns&theme=highcontrast&hide_border=true"/> 
-<img height="100%" width="37%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api?username=foursuns&show_icons=true&theme=highcontrast&hide_border=true&&count_private=true&include_all_commits=true"/>
 <img width="37%" src="https://github-readme-streak-stats.herokuapp.com/?user=foursuns&theme=highcontrast&hide_border=true"/>
 </p>
 
