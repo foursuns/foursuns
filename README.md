@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- English B1
-- French  B2
+- English A2
+- French  B1
 
 ### Badges
 <p align="left">
