@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 - English B1
 - French  B2
 
-<br>
-
 ### Badges
 <p align="left">
 <img src="98-361.png" alt="Microsoft Software Development Fundamentals" width="120" height="120"/>&nbsp;
@@ -40,8 +38,6 @@ Here are some ideas to get you started:
 <img src="ai-900.png" alt="Microsoft Azure AI Fundamentals" width="120" height="120"/>&nbsp;
 <img src="ai-102.png" alt="Microsoft Azure AI Engineer" width="120" height="120"/>&nbsp;
 </p>
-
-<br>
 
 ### Languages and Tools
 <p align="left">
