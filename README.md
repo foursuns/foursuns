@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Languages
 
-- English     A2
-- French      B1
+- English     B1
+- French      B2
 - Portuguese  C2
 
 ### Certifications
